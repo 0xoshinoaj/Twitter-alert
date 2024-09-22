@@ -1,0 +1,12 @@
+{
+  "tracked_accounts": [
+    "elonmusk",
+    "VitalikButerin",
+    "cz_binance"
+  ],
+  "notification_settings": {
+    "tweets": true,
+    "retweets": true,
+    "replies": true
+  }
+}
