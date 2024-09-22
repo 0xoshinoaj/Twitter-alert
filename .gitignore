@@ -1,0 +1,16 @@
+   # 忽略 .env 文件
+   .env
+
+   # 忽略 Python 虛擬環境
+   twitter_alert_env/
+
+   # 忽略 Python 編譯文件
+   *.pyc
+   __pycache__/
+
+   # 忽略日誌文件
+   *.log
+
+   # 忽略 IDE 相關文件（如果您使用 PyCharm 或 VS Code）
+   .idea/
+   .vscode/
